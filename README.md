@@ -30,8 +30,3 @@ O objetivo do sistema é **agilizar e organizar o processo de cadastro de client
 
 O sistema possui uma função que permite exportar os dados dos clientes para um arquivo `.xlsx`, servindo como backup manual para os usuários.
 
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
