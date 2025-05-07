@@ -1,0 +1,21 @@
+# User-specific files
+*.suo
+*.user
+*.rsuser
+*.userosscache
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio folder
+.vs/
+
+# Windows Forms designer
+*.Designer.cs
+
+# Logs, temporários e backups
+*.log
+*.cache
+*.tmp
+*.bak
