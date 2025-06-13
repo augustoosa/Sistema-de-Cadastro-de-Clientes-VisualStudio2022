@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Cadastro_Clientes", "C#_Cadastro_Clientes\C#_Cadastro_Clientes.csproj", "{F315FDAE-C3DF-43B4-8AD6-511C5A26366E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "teste 3 setup", "teste 3 setup\teste 3 setup.vdproj", "{280C5D50-790F-3B09-0966-A072D07DA2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F315FDAE-C3DF-43B4-8AD6-511C5A26366E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F315FDAE-C3DF-43B4-8AD6-511C5A26366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F315FDAE-C3DF-43B4-8AD6-511C5A26366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F315FDAE-C3DF-43B4-8AD6-511C5A26366E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280C5D50-790F-3B09-0966-A072D07DA2D4}.Debug|Any CPU.ActiveCfg = Debug
+		{280C5D50-790F-3B09-0966-A072D07DA2D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067E0E0E-ACFD-4E92-8B2F-56517FB1A1A6}
+	EndGlobalSection
+EndGlobal
